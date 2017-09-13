@@ -20,7 +20,7 @@ This is a repository to teach useful and widely used Github commands.
     git log
     git status
     git remote add upstream ---
-    git branch -b rollnumber_name
+    git checkout -b rollnumber_name
     git add ---
     git commit -m ---
     git push ---
